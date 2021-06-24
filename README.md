@@ -12,4 +12,4 @@ In this Project I have built a machine Learning model which can predict the sent
 5. Created a funtion in which more machine learning algorithms are added to check which model gives highest performamce
 6. Model Evaluation.
 
-Please check the Jupyter Notebook File to get a better Understanding.
+Please check the Jupyter Notebook File to get a better understanding.
